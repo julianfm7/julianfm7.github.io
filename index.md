@@ -2,122 +2,16 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am a Machine Learning Researcher coming from mathematics (Probability Theory/ Statistical Mechanics). I work as a postdoctoral researcher at [Orange Labs](https://lelab.orange.fr/) on Computational Trust Modeling through Reinforcement Learning algorithms.
 
-[Link to another page](./another-page.html).
+Before that, I have worked as a consultant data scientist at [Aristas](https://www.aristas.com.ar/).
+I am Adjunct Professor (on leave) at the Mathematics Department of the [Faculty of Engineering](https://www.fi.uba.ar/institucional/departamentos/matematica) at Universidad de Buenos Aires and Assistant Researcher (on leave) at [Instituto de Cálculo](https://www.ic.fcen.uba.ar/). 
 
-There should be whitespace between paragraphs.
+I have done a Phd. in Mathematics at [Leiden University](https://www.math.leidenuniv.nl/probability/index.php) under the supervision of [Frank den Hollander](https://www.math.leidenuniv.nl/~denholla/) and [Roberto Fernández](https://shanghai.nyu.edu/academics/faculty/directory/roberto-fernandez). Afterwards I returned to Argentina where I continued with a postdoc at [Universidad de Buenos Aires](http://mate.dm.uba.ar/~probab/). There, I collaborated with [Pablo Groisman](http://mate.dm.uba.ar/~pgroisma/) and [Matthieu Jonckhee](http://matthieujonckheere.blogspot.com/).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+For further details see my [cv]().
 
-# Header 1
+--- 
+*Material I that I like to share!* A collection of traces during my way from math to ML.
+### [Machine Learning Material](./ML/ML_material.html)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
