@@ -9,7 +9,7 @@ I am Adjunct Professor (on leave) at the Mathematics Department of the [Faculty 
 
 I have done a Phd. in Mathematics at [Leiden University](https://www.math.leidenuniv.nl/probability/index.php) under the supervision of [Frank den Hollander](https://www.math.leidenuniv.nl/~denholla/) and [Roberto Fernández](https://shanghai.nyu.edu/academics/faculty/directory/roberto-fernandez). Afterwards I returned to Argentina where I continued with a postdoc at [Universidad de Buenos Aires](http://mate.dm.uba.ar/~probab/). There, I collaborated with [Pablo Groisman](http://mate.dm.uba.ar/~pgroisma/) and [Matthieu Jonckhee](http://matthieujonckheere.blogspot.com/).
 
-For further details see my [cv]().
+For further details see my [cv](./).
 
 --- 
 *Material I that I like to share!* A collection of traces during my way from math to ML.
