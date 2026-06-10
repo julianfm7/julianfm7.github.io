@@ -3,3 +3,9 @@ _site
 Gemfile.lock
 *.gem
 .jekyll-cache
+
+# Ignore _prompts directory if it exists
+_prompts/
+
+/.quarto/
+**/*.quarto_ipynb

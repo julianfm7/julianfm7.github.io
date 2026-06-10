@@ -1,0 +1,75 @@
+project:
+  type: website
+
+website:
+  title: "Julian Martinez"
+  navbar:
+    pinned: true
+    search: false
+    left:
+      - text: "Home"
+        href: index.md
+      - text: "Academic Experience"
+        href: academic-experience.qmd
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/
+      - icon: github
+        href: https://github.com/julianfm7
+  page-footer:
+    center: "Copyright 2026 Julian Martinez"
+
+format:
+  html:
+    page-layout: full
+    toc: false
+    theme:
+      light: flatly
+      dark: darkly
+    include-after-body:
+      text: |
+        <script>
+        (() => {
+          const prefKey = "site-color-preference";
+
+          const applyDefault = () => {
+            try {
+              let pref = window.localStorage.getItem(prefKey);
+              if (pref === null) {
+                pref = "dark";
+                window.localStorage.setItem(prefKey, pref);
+              }
+
+              if (pref === "dark" && document.body.classList.contains("quarto-light")) {
+                if (typeof window.quartoToggleColorScheme === "function") {
+                  window.quartoToggleColorScheme();
+                }
+              }
+
+              const syncPref = () => {
+                const next = document.body.classList.contains("quarto-dark") ? "dark" : "light";
+                window.localStorage.setItem(prefKey, next);
+              };
+
+              const toggle = document.querySelector(".quarto-color-scheme-toggle");
+              if (toggle) {
+                toggle.addEventListener("click", () => setTimeout(syncPref, 0));
+              }
+            } catch (_) {
+              // Ignore if localStorage is unavailable.
+            }
+          };
+
+          if (document.readyState === "loading") {
+            document.addEventListener("DOMContentLoaded", applyDefault);
+          } else {
+            applyDefault();
+          }
+        })();
+        </script>
+    respect-user-color-scheme: false
+    css: styles.css
+    smooth-scroll: true
+
+execute:
+  freeze: auto

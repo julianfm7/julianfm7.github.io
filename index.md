@@ -1,42 +1,71 @@
 ---
-layout: default
+title: ""
 ---
 
-I am a freelance data scientist with a background in mathematics, probability, and statistical mechanics. Over the years I have moved from academic research into applied machine learning, always with the same preference: use the right level of modeling for the problem at hand, and aim for understanding before complexity.
+:::{.personal-layout}
 
-I am currently on parental leave. In parallel, I have been developing my work around causal machine learning, large language models for information extraction, and GraphRAG with Neo4j.
+:::{.sidebar}
+# Julian Martinez
 
-## Current Work
+<p class="person-subtitle">Data Scientist</p>
 
-My recent projects include:
+<img class="profile-photo" src="assets/img/prof_pic.jpg" alt="Profile picture of Julian Martinez">
 
-- causal analysis of pricing policy changes for the hospitality sector
-- elasticity inference from observational data using machine learning
-- extraction of structured bibliographic data from unstructured web sources with LLMs
-- project-based machine learning education and autograding design
+## About Me {.section-title}
 
-## Experience
+I am a freelance data scientist with a background in mathematics, probability, and statistical mechanics. I work at the intersection of scientific modeling and production machine learning, focusing on practical decisions, interpretability, and robust deployment.
 
-I currently work as a freelance consultant data scientist. Previously, I was:
+:::{.social-links}
+[LinkedIn](https://www.linkedin.com/){target="_blank" rel="noopener noreferrer"}
+[GitHub](https://github.com/julianfm7){target="_blank" rel="noopener noreferrer"}
+:::
+:::
 
-- Curriculum Engineer at [DeepLearning.AI](https://www.deeplearning.ai/)
-- ML Postdoctoral Researcher at [Orange](https://lelab.orange.fr/)
-- Consultant Data Scientist at [Aristas](https://www.aristas.com.ar/)
-- Professor and Researcher at Universidad de Buenos Aires, CONICET, and Universidad de San Andres
+:::{.main-panel}
 
-Across these roles I have worked on reinforcement learning, anomaly detection, time series, generative models, causal inference, and industrial machine learning workflows.
 
-## Education
+## Experience {.section-title}
 
-I hold a PhD in Mathematics from [Leiden University](https://www.math.leidenuniv.nl/probability/index.php), where I worked under the supervision of [Frank den Hollander](https://www.math.leidenuniv.nl/~denholla/) and [Roberto Fernandez](https://shanghai.nyu.edu/academics/faculty/directory/roberto-fernandez), and an MSc in Mathematics from Universidad de Buenos Aires.
+:::{.entry-list}
+- **Freelance Data Scientist** (2023-Present)
+- **Curriculum Engineer**, DeepLearning.AI
+- **ML Postdoctoral Researcher**, Orange
+- **Consultant Data Scientist**, Aristas
+:::
 
-Before moving fully into applied data science, I spent several years teaching and doing research in probability, statistics, machine learning, and statistical physics.
+Academic roles are summarized in a dedicated page: [Academic Experience](academic-experience.qmd){.inline-link}
 
-For a fuller summary, see my [CV](./Julian_Martinez_CV.pdf).
+## Skills {.section-title}
 
----
+:::{.card-list}
+- Machine Learning
+- Causal Inference
+- Python
+- R
+- SQL
+- LLM Information Extraction
+- GraphRAG and Neo4j
+- Time Series Modeling
+:::
 
-*Material I like to share:* notes and resources collected along the way from mathematics to machine learning.
+## Education {.section-title}
 
-### [Machine Learning Material](./ML/ML_material.html)
+:::{.entry-list}
+- **PhD in Mathematics**, Leiden University
+- **MSc in Mathematics**, Universidad de Buenos Aires
+:::
+
+## Projects {.section-title}
+
+:::{.entry-list}
+- Causal analysis of pricing policy changes in hospitality
+- Elasticity inference from observational data using ML
+- Structured bibliographic extraction with LLM pipelines
+- Project-based machine learning education and autograding
+:::
+
+For a complete profile, see the [CV](Julian_Martinez_CV.pdf){.inline-link}.
+:::
+
+:::
 
