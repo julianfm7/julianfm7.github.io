@@ -1,5 +1,5 @@
 /* LinkedIn-style cover banner above name/profile */
-.quarto-about-solana::before {
+.quarto-about-solana::after {
   content: "";
   display: block;
   width: 100%;
@@ -12,7 +12,7 @@
 }
 
 @media (max-width: 600px) {
-  .quarto-about-solana::before {
+  .quarto-about-solana::after {
     margin-bottom: 1rem;
   }
 }
