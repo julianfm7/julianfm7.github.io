@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Julián Martínez",
+    "section": "",
+    "text": "About Me\nI am a data scientist, with a strong background in statistics, machine learning, and mathematical modeling. I help turn complex, uncertain data problems into statistical models, decision tools, and reproducible analytical workflows.\nI have transitioned from an academic career to consulting, where I have applied my skills to solve problems in different industries. You can see a summary of my experience.\nFor further details, please check my cv (french version).\n\nCurrent Interests\nI am currently expanding my expertise in Bayesian statistics, causal inference, and decision science. Some of the domains that I am currently exploring include biostatistics, animal nutrition, electricity markets, and supply chain optimization.\n\nSome of my working principles summarize how I approach data science and analytics work.\nThe way we approach problems is often influenced by the people we learn from. This page gathers some of the people that shape my approach to data science."
+  },
+  {
+    "objectID": "assets/subpages/tech-stack.html",
+    "href": "assets/subpages/tech-stack.html",
+    "title": "Tech Stack",
+    "section": "",
+    "text": "Python - Primary language for data science and ML projects\nR - Statistical analysis and visualization\nSQL - Database queries and data manipulation"
+  },
+  {
+    "objectID": "assets/subpages/tech-stack.html#programming-languages",
+    "href": "assets/subpages/tech-stack.html#programming-languages",
+    "title": "Tech Stack",
+    "section": "",
+    "text": "Python - Primary language for data science and ML projects\nR - Statistical analysis and visualization\nSQL - Database queries and data manipulation"
+  },
+  {
+    "objectID": "assets/subpages/tech-stack.html#data-ml-tools",
+    "href": "assets/subpages/tech-stack.html#data-ml-tools",
+    "title": "Tech Stack",
+    "section": "Data & ML Tools",
+    "text": "Data & ML Tools\n\nPandas - Data manipulation and analysis\nPolars - High-performance dataframes\nScikit-learn - Machine learning algorithms\nCausalML - Causal inference\nEconML - Econometric ML methods\nMLflow - ML experiment tracking\nKedro - Data pipeline framework"
+  },
+  {
+    "objectID": "assets/subpages/tech-stack.html#llm-nlp",
+    "href": "assets/subpages/tech-stack.html#llm-nlp",
+    "title": "Tech Stack",
+    "section": "LLM & NLP",
+    "text": "LLM & NLP\n\nOpenAI GPT - Large language models\nSpaCy - NLP toolkit\nGazpacho - Web scraping"
+  },
+  {
+    "objectID": "assets/subpages/tech-stack.html#platforms-infrastructure",
+    "href": "assets/subpages/tech-stack.html#platforms-infrastructure",
+    "title": "Tech Stack",
+    "section": "Platforms & Infrastructure",
+    "text": "Platforms & Infrastructure\n\nNeo4j - Graph databases\nQuarto - This website!"
+  },
+  {
+    "objectID": "assets/subpages/tech-stack.html#visualization",
+    "href": "assets/subpages/tech-stack.html#visualization",
+    "title": "Tech Stack",
+    "section": "Visualization",
+    "text": "Visualization\n\nAdd your visualization tools here (Plotly, Matplotlib, Seaborn, etc.)\n\nFeel free to expand this page with more details about each technology!"
+  },
+  {
+    "objectID": "assets/subpages/domains.html",
+    "href": "assets/subpages/domains.html",
+    "title": "Julián Martínez - Personal Website",
+    "section": "",
+    "text": "Some of the areas that I am currently exploring include:\n\nBiostatistics: Clinical trial design, survival analysis, and causal inference in healthcare.\nAnimal Nutrition: Predictive and prescriptive modeling for feed optimization and livestock management.\nCausality in Electricity Markets\nSupply Chain Optimization: Demand forecasting, inventory management, and logistics optimization.\n\nThese are not all domains where I claim deep experience; they are areas where I am actively building expertise and looking for projects."
+  },
+  {
+    "objectID": "assets/subpages/skills.html",
+    "href": "assets/subpages/skills.html",
+    "title": "Methodology",
+    "section": "",
+    "text": "Methodology\n\nStatistical Inference\n\nProbability & Statistics\nBayesian Statistics\nCausal Inference\n\n\n\nMathematical & Decision Modeling\n\nMathematical Modeling\nReinforcement Learning\n\n\n\nPredictive Modeling\n\nMachine Learning\nDeep Learning\n\n\n\nPattern Discovery\n\nClustering\nAnomaly Detection\n\n\n\nLanguage & Knowledge Systems\n\nNatural Language Processing\nGraph Databases\n\n\n\n\n\nCommunication and Leadership\n\nMentoring and supervising students.\nPresenting and communicating results to non-technical audiences. I have delivered talks and courses from a diverse range of audiences: medical doctors, economists, engineers, and students from different backgrounds. I have also presented my research at international conferences and workshops.\nCoordinating a teaching unit comprising five Probability and Statistics courses, including the design of the syllabus, the coordination of the teaching team, and the evaluation of students. That experience has helped me develop skills in project management, team coordination, and effective communication with both students and colleagues.\nInternational professional and academic collaboration. I have collaborated with researchers and professionals from different countries, which has helped me develop cross-cultural communication skills and the ability to work effectively in diverse teams.\n\n\n\n\nTools & Frameworks\n\nProgramming\n\nPython\nR\nSQL\n\n\n\nData Analytics\n\nPandas\nPolars\nIbis\n\n\n\nStatistical Modeling\n\nPyMC\nScikit-learn\n\n\n\nMachine Learning & Deep Learning\n\nPyTorch\nOptuna\n\n\n\nNLP & Generative AI\n\nSpaCy\nHugging Face\nOpenAI API\nMirascope\n\n\n\nKnowledge Graphs\n\nNeo4j\n\n\n\nReinforcement Learning\n\nStable Baselines3\n\n\n\nMLOps & Reproducibility\n\nMLflow\nKedro\nDocker\nGit\nCookiecutter\n\n\n\nScientific Computing & Applications\n\nMarimo\nGazpacho"
+  },
+  {
+    "objectID": "assets/subpages/experience.html",
+    "href": "assets/subpages/experience.html",
+    "title": "Julián Martínez - Personal Website",
+    "section": "",
+    "text": "Developed a demostrator of a tool, based on graphrag to analyze legal documents and extract relevant information.\n\n\n\nDesigned project-based learning experiences covering deep learning, computer vision, and NLP. Developed automated grading systems and practical ML projects to help learners acquire industry-relevant skills using modern machine learning tooling.\n\n\n\n\n\nEstimated the impact of pricing policy changes using Difference-in-Differences methods and machine learning techniques for elasticity inference. Developed reproducible data pipelines and causal models from observational data, providing actionable insights for revenue optimization. (ESCP Business School in partnership with AO Hostels)\n\nBuilt an NLP pipeline that converts unstructured web content into structured bibliographic databases using LLM-based summarization and information extraction. (Bocconi University)\n\n\n\n\nConducted research on modeling trust and information dynamics developing mathematical models based on reinforcement learning. I have shortly participated in a project of anomaly detection for logs.\n\n\n\nDelivered end-to-end data science solutions across multiple industries, from generative modeling in the fragrance sector to demand forecasting in sports and entertainment. Designed statistical and machine learning models, translated business requirements into analytical solutions, and contributed to project definition, client communication, and team mentoring."
+  },
+  {
+    "objectID": "assets/subpages/experience.html#experience-summary",
+    "href": "assets/subpages/experience.html#experience-summary",
+    "title": "Julián Martínez - Personal Website",
+    "section": "",
+    "text": "Developed a demostrator of a tool, based on graphrag to analyze legal documents and extract relevant information.\n\n\n\nDesigned project-based learning experiences covering deep learning, computer vision, and NLP. Developed automated grading systems and practical ML projects to help learners acquire industry-relevant skills using modern machine learning tooling.\n\n\n\n\n\nEstimated the impact of pricing policy changes using Difference-in-Differences methods and machine learning techniques for elasticity inference. Developed reproducible data pipelines and causal models from observational data, providing actionable insights for revenue optimization. (ESCP Business School in partnership with AO Hostels)\n\nBuilt an NLP pipeline that converts unstructured web content into structured bibliographic databases using LLM-based summarization and information extraction. (Bocconi University)\n\n\n\n\nConducted research on modeling trust and information dynamics developing mathematical models based on reinforcement learning. I have shortly participated in a project of anomaly detection for logs.\n\n\n\nDelivered end-to-end data science solutions across multiple industries, from generative modeling in the fragrance sector to demand forecasting in sports and entertainment. Designed statistical and machine learning models, translated business requirements into analytical solutions, and contributed to project definition, client communication, and team mentoring."
+  },
+  {
+    "objectID": "assets/subpages/influences.html",
+    "href": "assets/subpages/influences.html",
+    "title": "Julián Martínez - Personal Website",
+    "section": "",
+    "text": "The tools we use matter, but so do the ideas that shape how we think. The people below have influenced my approach to statistics, machine learning, decision-making, data systems, and scientific computing. While they come from different fields, they share a common emphasis on rigor, curiosity, reproducibility, and practical impact.\n\n\nVincent Warmerdam Pragmatic machine learning, MLOps, software engineering practices, and critical thinking about AI.\nGaël Varoquaux Scientific computing, machine learning, and the development of open-source software for data science.\nEric Ma Scientific computing, network science, reproducible research, and the Python data ecosystem.\n\n\n\nFrank Harrell Biostatistics, predictive modeling, uncertainty quantification, and evidence-based decision making.\nMichael I. Jordan Statistical machine learning, artificial intelligence, and the foundations of decision-making systems.\n\n\n\nWarren Powell Sequential decision-making, stochastic optimization, reinforcement learning, and operations research.\n\n\n\nRichard McElreath Bayesian statistics, evolutionary anthropology, and the application of probabilistic models to social science.\nJuan Camilo Orduz Bayesian modeling, probabilistic machine learning, experimentation, and modern data science workflows.\n\n\n\nTomaz Bratanic Knowledge graphs, graph databases, GraphRAG, and the integration of structured knowledge into AI systems."
+  },
+  {
+    "objectID": "assets/subpages/influences.html#intellectual-influences",
+    "href": "assets/subpages/influences.html#intellectual-influences",
+    "title": "Julián Martínez - Personal Website",
+    "section": "",
+    "text": "The tools we use matter, but so do the ideas that shape how we think. The people below have influenced my approach to statistics, machine learning, decision-making, data systems, and scientific computing. While they come from different fields, they share a common emphasis on rigor, curiosity, reproducibility, and practical impact.\n\n\nVincent Warmerdam Pragmatic machine learning, MLOps, software engineering practices, and critical thinking about AI.\nGaël Varoquaux Scientific computing, machine learning, and the development of open-source software for data science.\nEric Ma Scientific computing, network science, reproducible research, and the Python data ecosystem.\n\n\n\nFrank Harrell Biostatistics, predictive modeling, uncertainty quantification, and evidence-based decision making.\nMichael I. Jordan Statistical machine learning, artificial intelligence, and the foundations of decision-making systems.\n\n\n\nWarren Powell Sequential decision-making, stochastic optimization, reinforcement learning, and operations research.\n\n\n\nRichard McElreath Bayesian statistics, evolutionary anthropology, and the application of probabilistic models to social science.\nJuan Camilo Orduz Bayesian modeling, probabilistic machine learning, experimentation, and modern data science workflows.\n\n\n\nTomaz Bratanic Knowledge graphs, graph databases, GraphRAG, and the integration of structured knowledge into AI systems."
+  },
+  {
+    "objectID": "assets/subpages/my_principles.html",
+    "href": "assets/subpages/my_principles.html",
+    "title": "Working Principles",
+    "section": "",
+    "text": "After several years transitioning from academia to consulting, I have learned that successful data science projects depend as much on understanding problems, decisions, and people as on algorithms and models.\nThe principles below summarize how I approach data science and analytics work.\n\n\nBefore increasing technical complexity, I try to understand the problem, the data-generating process, and the decision that needs to be improved.\nA sophisticated model cannot compensate for a poor understanding of the underlying business, scientific, or operational context.\n\n\n\nA model is useful only insofar as it helps people make better decisions.\nRather than optimizing metrics in isolation, I start by asking:\n\nWhat decision are we trying to support?\nWho will make that decision?\nHow can data improve it?\n\nPerformance metrics matter, but they are only a proxy for the real objective.\n\n\n\nConsiderable effort should be spent ensuring that the right question is being asked.\nMany unsuccessful projects are technically correct but address the wrong problem. Defining the question properly is often more important than selecting the final algorithm.\n\n\n\nA simple model should come first.\nBaselines help establish realistic expectations, reveal the structure of the problem, and provide a reference against which more complex approaches can be evaluated.\nComplexity should be earned, not assumed.\n\n\n\nAn explainable model is often more valuable because stakeholders can challenge it, trust it, and engage in productive discussions around its results.\nThese conversations frequently lead to better understanding of the problem and, ultimately, better solutions.\n\n\n\nUnderstanding how data is collected, measured, transformed, and maintained frequently produces larger gains than moving to a more sophisticated algorithm.\nGood data and clear definitions are often a stronger competitive advantage than complex models.\n\n\n\nA successful project does not end with a validated model.\nThe real challenge begins when a solution is integrated into a process, adopted by users, and maintained over time. Deployment, monitoring, and feedback loops are part of the solution, not afterthoughts.\n\n\n\nIn many real-world settings, the first delivery does not need to be perfect.\nIt needs to be useful, credible, and good enough to generate trust. Trust creates opportunities for better collaboration, better understanding of the problem, and access to better data, which in turn enables future improvements.\n\nThese principles are not universal truths. They are lessons learned through projects, successes, mistakes, and interactions with colleagues and stakeholders across different domains.\nThey continue to evolve with experience."
+  },
+  {
+    "objectID": "assets/subpages/my_principles.html#deep-understanding-before-deep-learning",
+    "href": "assets/subpages/my_principles.html#deep-understanding-before-deep-learning",
+    "title": "Working Principles",
+    "section": "",
+    "text": "Before increasing technical complexity, I try to understand the problem, the data-generating process, and the decision that needs to be improved.\nA sophisticated model cannot compensate for a poor understanding of the underlying business, scientific, or operational context."
+  },
+  {
+    "objectID": "assets/subpages/my_principles.html#the-goal-is-not-accuracy-but-better-decisions",
+    "href": "assets/subpages/my_principles.html#the-goal-is-not-accuracy-but-better-decisions",
+    "title": "Working Principles",
+    "section": "",
+    "text": "A model is useful only insofar as it helps people make better decisions.\nRather than optimizing metrics in isolation, I start by asking:\n\nWhat decision are we trying to support?\nWho will make that decision?\nHow can data improve it?\n\nPerformance metrics matter, but they are only a proxy for the real objective."
+  },
+  {
+    "objectID": "assets/subpages/my_principles.html#models-answer-questions-they-do-not-define-them",
+    "href": "assets/subpages/my_principles.html#models-answer-questions-they-do-not-define-them",
+    "title": "Working Principles",
+    "section": "",
+    "text": "Considerable effort should be spent ensuring that the right question is being asked.\nMany unsuccessful projects are technically correct but address the wrong problem. Defining the question properly is often more important than selecting the final algorithm."
+  },
+  {
+    "objectID": "assets/subpages/my_principles.html#start-with-a-simple-baseline",
+    "href": "assets/subpages/my_principles.html#start-with-a-simple-baseline",
+    "title": "Working Principles",
+    "section": "",
+    "text": "A simple model should come first.\nBaselines help establish realistic expectations, reveal the structure of the problem, and provide a reference against which more complex approaches can be evaluated.\nComplexity should be earned, not assumed."
+  },
+  {
+    "objectID": "assets/subpages/my_principles.html#explainability-helps-adoption",
+    "href": "assets/subpages/my_principles.html#explainability-helps-adoption",
+    "title": "Working Principles",
+    "section": "",
+    "text": "An explainable model is often more valuable because stakeholders can challenge it, trust it, and engage in productive discussions around its results.\nThese conversations frequently lead to better understanding of the problem and, ultimately, better solutions."
+  },
+  {
+    "objectID": "assets/subpages/my_principles.html#data-quality-often-matters-more-than-model-complexity",
+    "href": "assets/subpages/my_principles.html#data-quality-often-matters-more-than-model-complexity",
+    "title": "Working Principles",
+    "section": "",
+    "text": "Understanding how data is collected, measured, transformed, and maintained frequently produces larger gains than moving to a more sophisticated algorithm.\nGood data and clear definitions are often a stronger competitive advantage than complex models."
+  },
+  {
+    "objectID": "assets/subpages/my_principles.html#a-model-only-creates-value-when-it-is-used",
+    "href": "assets/subpages/my_principles.html#a-model-only-creates-value-when-it-is-used",
+    "title": "Working Principles",
+    "section": "",
+    "text": "A successful project does not end with a validated model.\nThe real challenge begins when a solution is integrated into a process, adopted by users, and maintained over time. Deployment, monitoring, and feedback loops are part of the solution, not afterthoughts."
+  },
+  {
+    "objectID": "assets/subpages/my_principles.html#good-enough-can-be-better-than-perfect",
+    "href": "assets/subpages/my_principles.html#good-enough-can-be-better-than-perfect",
+    "title": "Working Principles",
+    "section": "",
+    "text": "In many real-world settings, the first delivery does not need to be perfect.\nIt needs to be useful, credible, and good enough to generate trust. Trust creates opportunities for better collaboration, better understanding of the problem, and access to better data, which in turn enables future improvements.\n\nThese principles are not universal truths. They are lessons learned through projects, successes, mistakes, and interactions with colleagues and stakeholders across different domains.\nThey continue to evolve with experience."
+  },
+  {
+    "objectID": "assets/subpages/academic.html",
+    "href": "assets/subpages/academic.html",
+    "title": "Education",
+    "section": "",
+    "text": "Mar 2014 - Dec 2021\nI summarize my experience in academia here, which includes research and teaching activities.\n\nResearch: I have done research in Statistical Mechanics / Probability and Geosciences (for more details, see Google Scholar).\nInvited Professor at IMPA for the course Continuum Percolation.\nTeaching: I have taught different courses in the areas of Probability, Statistics, Data Science and Machine Learning for different audiences (engineering students, economists, and professionals). I have supervised undergraduate and graduate students in their research projects and theses.\n\nCoordinated and taught a five-course Probability and Statistics program, leading a team of 15 instructors and teaching assistants. Responsible for curriculum planning, examinations, student support, and overall academic coordination.\nI created and taught two advanced courses for the Phd program in Engineering at the University of Buenos Aires: Introduction to Statistical Learning and Reinforcement Learning."
+  },
+  {
+    "objectID": "assets/subpages/academic.html#professor-and-researcher-university-of-buenos-aires-conicet-university-of-san-andres-buenos-aires-argentina",
+    "href": "assets/subpages/academic.html#professor-and-researcher-university-of-buenos-aires-conicet-university-of-san-andres-buenos-aires-argentina",
+    "title": "Education",
+    "section": "",
+    "text": "Mar 2014 - Dec 2021\nI summarize my experience in academia here, which includes research and teaching activities.\n\nResearch: I have done research in Statistical Mechanics / Probability and Geosciences (for more details, see Google Scholar).\nInvited Professor at IMPA for the course Continuum Percolation.\nTeaching: I have taught different courses in the areas of Probability, Statistics, Data Science and Machine Learning for different audiences (engineering students, economists, and professionals). I have supervised undergraduate and graduate students in their research projects and theses.\n\nCoordinated and taught a five-course Probability and Statistics program, leading a team of 15 instructors and teaching assistants. Responsible for curriculum planning, examinations, student support, and overall academic coordination.\nI created and taught two advanced courses for the Phd program in Engineering at the University of Buenos Aires: Introduction to Statistical Learning and Reinforcement Learning."
+  },
+  {
+    "objectID": "assets/subpages/academic.html#leiden-university-ph.d.-in-mathematics-netherlands",
+    "href": "assets/subpages/academic.html#leiden-university-ph.d.-in-mathematics-netherlands",
+    "title": "Education",
+    "section": "Leiden University, Ph.D. in Mathematics – Netherlands",
+    "text": "Leiden University, Ph.D. in Mathematics – Netherlands\nSep 2010, Mar 2014\nDynamical Gibbs Non-Gibbs transitions and Brownian Percolation. (Under the supervision of Prof.Dr. Frank den Hollander and Prof.Dr. Roberto Fernandez.\nI have been granted with an Erasmus Mundus/BAPE scholarship. In 2014, I have received the Francisco Aranda Ordaz Award to the best thesis in Probability written by a student from Latin America (Sponsored by the Bernoulli Society)."
+  },
+  {
+    "objectID": "assets/subpages/academic.html#university-of-buenos-aires-m.sc.-in-mathematics-argentina",
+    "href": "assets/subpages/academic.html#university-of-buenos-aires-m.sc.-in-mathematics-argentina",
+    "title": "Education",
+    "section": "University of Buenos Aires, M.Sc. in Mathematics – Argentina",
+    "text": "University of Buenos Aires, M.Sc. in Mathematics – Argentina\nMar 2008, Mar 2010\nHydrodynamical limit for Simple Symmetric Exclusion Process (under the supervision of Prof. Dr. Mariela Sued)."
+  }
+]
