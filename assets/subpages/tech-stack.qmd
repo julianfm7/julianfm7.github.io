@@ -1,0 +1,36 @@
+---
+title: "Tech Stack"
+---
+
+## Programming Languages
+
+- **Python** - Primary language for data science and ML projects
+- **R** - Statistical analysis and visualization
+- **SQL** - Database queries and data manipulation
+
+## Data & ML Tools
+
+- **Pandas** - Data manipulation and analysis
+- **Polars** - High-performance dataframes
+- **Scikit-learn** - Machine learning algorithms
+- **CausalML** - Causal inference
+- **EconML** - Econometric ML methods
+- **MLflow** - ML experiment tracking
+- **Kedro** - Data pipeline framework
+
+## LLM & NLP
+
+- **OpenAI GPT** - Large language models
+- **SpaCy** - NLP toolkit
+- **Gazpacho** - Web scraping
+
+## Platforms & Infrastructure
+
+- **Neo4j** - Graph databases
+- **Quarto** - This website!
+
+## Visualization
+
+- Add your visualization tools here (Plotly, Matplotlib, Seaborn, etc.)
+
+Feel free to expand this page with more details about each technology!

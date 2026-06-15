@@ -1,0 +1,26 @@
+## Experience Summary
+
+#### **Senior Data Scientist**, Capgemini (Dec 2025 - Jun 2026)
+Developed a demostrator of a tool, based on graphrag to analyze legal documents and extract relevant information. 
+
+#### **Curriculim Engineer**, [DeepLearning.AI](https://www.deeplearning.ai/) (Apr 2025 - Nov 2025)
+Designed project-based learning experiences covering deep learning, computer vision, and NLP. Developed automated grading systems and practical ML projects to help learners acquire industry-relevant skills using modern machine learning tooling.
+
+#### **Consultant Data Scientist**, *freelance* (Jun 2023 - Mar 2025)
+
+* ###### Dynamic Pricing and Causal Analysis
+Estimated the impact of pricing policy changes using Difference-in-Differences methods and machine learning techniques for elasticity inference. 
+Developed reproducible data pipelines and causal models from observational data, providing actionable insights for revenue optimization.
+  (ESCP Business School in partnership with [AO Hostels](https://www.aohostels.com/en/)) 
+
+* ###### Structured Bibliographic Data Extraction
+Built an NLP pipeline that converts unstructured web content into structured bibliographic databases using LLM-based summarization and information extraction.
+  (Bocconi University)
+
+
+#### **ML Postdoctoral Researcher**, Orange Labs (Dec 2021 - Mar 2023)
+Conducted research on modeling trust and information dynamics developing mathematical models based on reinforcement learning. 
+I have shortly participated in a project of anomaly detection for logs.
+
+#### **Consultant Data Scientist**, [Aristas](http://www.aristas.com.ar/) (Jan 2021 - Dec 2021)
+Delivered end-to-end data science solutions across multiple industries, from generative modeling in the fragrance sector to demand forecasting in sports and entertainment. Designed statistical and machine learning models, translated business requirements into analytical solutions, and contributed to project definition, client communication, and team mentoring.

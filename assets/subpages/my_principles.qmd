@@ -1,0 +1,67 @@
+# Working Principles
+
+After several years transitioning from academia to consulting, I have learned that successful data science projects depend as much on understanding problems, decisions, and people as on algorithms and models.
+
+The principles below summarize how I approach data science and analytics work.
+
+## Deep understanding before deep learning
+
+Before increasing technical complexity, I try to understand the problem, the data-generating process, and the decision that needs to be improved.
+
+A sophisticated model cannot compensate for a poor understanding of the underlying business, scientific, or operational context.
+
+## The goal is not accuracy, but better decisions
+
+A model is useful only insofar as it helps people make better decisions.
+
+Rather than optimizing metrics in isolation, I start by asking:
+
+* What decision are we trying to support?
+* Who will make that decision?
+* How can data improve it?
+
+Performance metrics matter, but they are only a proxy for the real objective.
+
+## Models answer questions; they do not define them
+
+Considerable effort should be spent ensuring that the right question is being asked.
+
+Many unsuccessful projects are technically correct but address the wrong problem. Defining the question properly is often more important than selecting the final algorithm.
+
+## Start with a simple baseline
+
+A simple model should come first.
+
+Baselines help establish realistic expectations, reveal the structure of the problem, and provide a reference against which more complex approaches can be evaluated.
+
+Complexity should be earned, not assumed.
+
+## Explainability helps adoption
+
+An explainable model is often more valuable because stakeholders can challenge it, trust it, and engage in productive discussions around its results.
+
+These conversations frequently lead to better understanding of the problem and, ultimately, better solutions.
+
+## Data quality often matters more than model complexity
+
+Understanding how data is collected, measured, transformed, and maintained frequently produces larger gains than moving to a more sophisticated algorithm.
+
+Good data and clear definitions are often a stronger competitive advantage than complex models.
+
+## A model only creates value when it is used
+
+A successful project does not end with a validated model.
+
+The real challenge begins when a solution is integrated into a process, adopted by users, and maintained over time. Deployment, monitoring, and feedback loops are part of the solution, not afterthoughts.
+
+## Good enough can be better than perfect
+
+In many real-world settings, the first delivery does not need to be perfect.
+
+It needs to be useful, credible, and good enough to generate trust. Trust creates opportunities for better collaboration, better understanding of the problem, and access to better data, which in turn enables future improvements.
+
+---
+
+These principles are not universal truths. They are lessons learned through projects, successes, mistakes, and interactions with colleagues and stakeholders across different domains.
+
+They continue to evolve with experience.

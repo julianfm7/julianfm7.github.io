@@ -1,0 +1,92 @@
+# Methodology
+
+### Statistical Inference
+
+* Probability & Statistics
+* Bayesian Statistics
+* Causal Inference
+
+### Mathematical & Decision Modeling
+
+* Mathematical Modeling
+* Reinforcement Learning
+
+### Predictive Modeling
+
+* Machine Learning
+* Deep Learning
+
+### Pattern Discovery
+
+* Clustering
+* Anomaly Detection
+
+### Language & Knowledge Systems
+
+* Natural Language Processing
+* Graph Databases
+
+---
+
+# Communication and Leadership
+
+* Mentoring and supervising students.
+* Presenting and communicating results to non-technical audiences.
+I have delivered talks and courses from a diverse range of audiences: medical doctors, economists, engineers, and students from different backgrounds. I have also presented my research at international conferences and workshops.
+* Coordinating a teaching unit comprising five Probability and Statistics courses, including the design of the syllabus, the coordination of the teaching team, and the evaluation of students. 
+That experience has helped me develop skills in project management, team coordination, and effective communication with both students and colleagues.
+* International professional and academic collaboration. I have collaborated with researchers and professionals from different countries, which has helped me develop cross-cultural communication skills and the ability to work effectively in diverse teams.
+
+---
+
+# Tools & Frameworks
+
+### Programming
+
+* Python
+* R
+* SQL
+
+### Data Analytics
+
+* Pandas
+* Polars
+* Ibis
+
+### Statistical Modeling
+
+* PyMC
+* Scikit-learn
+
+### Machine Learning & Deep Learning
+
+* PyTorch
+* Optuna
+
+### NLP & Generative AI
+
+* SpaCy
+* Hugging Face
+* OpenAI API
+* Mirascope
+
+### Knowledge Graphs
+
+* Neo4j
+
+### Reinforcement Learning
+
+* Stable Baselines3
+
+### MLOps & Reproducibility
+
+* MLflow
+* Kedro
+* Docker
+* Git
+* Cookiecutter
+
+### Scientific Computing & Applications
+
+* Marimo
+* Gazpacho
