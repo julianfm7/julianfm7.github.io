@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: _site
+
+format:
+  html:
+    theme: darkly
+    css: assets/css/custom.css
+
+website:
+  title: "Julián Martínez - Personal Website"
+  navbar:
+    left:
+    - text: "Home"
+      href: index.qmd
+    - text: "Experience"
+      href: assets/subpages/experience.qmd
+    - text: "Skills"
+      href: assets/subpages/skills.qmd
+    - text: "Principles"
+      href: assets/subpages/my_principles.qmd
+    - text: "Domains"
+      href: assets/subpages/domains.qmd
+    - text: "Influences"
+      href: assets/subpages/influences.qmd

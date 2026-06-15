@@ -1,0 +1,12 @@
+Some of the areas that I am currently exploring include:
+
+* [Biostatistics](https://hbiostat.org/bbr/): Clinical trial design, survival analysis, and causal inference in healthcare.
+
+* Animal Nutrition: Predictive and prescriptive modeling for feed optimization and livestock management.
+
+* [Causality in Electricity Markets](https://github.com/dcacciarelli/my-causality-book)
+
+* Supply Chain Optimization: Demand forecasting, inventory management, and logistics optimization.
+
+
+These are not all domains where I claim deep experience; they are areas where I am actively building expertise and looking for projects.

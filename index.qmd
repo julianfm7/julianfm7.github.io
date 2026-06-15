@@ -1,0 +1,48 @@
+---
+title: "Julián Martínez"
+about:
+  template: solana
+  image: ./assets/img/prof_pic.jpg
+  image-width: 10em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/julianmartinezfm7/
+      
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com/julianfm7
+
+---
+
+# About Me
+
+I am a data scientist, with a strong background in statistics, machine learning, and mathematical modeling. 
+I help turn complex, uncertain data problems into statistical models, decision tools, and reproducible analytical workflows.
+
+
+I have transitioned from an [academic career](./assets/subpages/academic.qmd) to consulting, where I have applied my [skills](./assets/subpages/skills.qmd) to solve problems in different industries.
+You can see a summary of my [experience](./assets/subpages/experience.qmd). 
+
+For further details, please check my [cv](./assets/cv/Julian_Martinez_en_CV.pdf) ([french version](./assets/cv/Julian_Martinez_fr_CV.pdf)).
+
+### Current Interests
+
+I am currently expanding my expertise in Bayesian statistics, causal inference, and decision science.
+Some of the [domains](./assets/subpages/domains.qmd) that I am currently exploring include biostatistics, animal nutrition, electricity markets, and supply chain optimization.
+
+---
+
+Some of my [working principles](./assets/subpages/my_principles.qmd) summarize how I approach data science and analytics work.
+
+
+The way we approach problems is often influenced by the people we learn from.
+[This page](./assets/subpages/influences.qmd) gathers some of the people that shape my approach to data science.
+
+
+
+
+
+
+
+

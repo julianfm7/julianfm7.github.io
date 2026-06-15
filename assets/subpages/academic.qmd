@@ -1,0 +1,32 @@
+## **Professor and Researcher**, University of Buenos Aires / CONICET / University of San Andres -- Buenos Aires, Argentina
+
+Mar 2014 - Dec 2021
+
+ I summarize my experience in academia here, which includes research and teaching activities.
+
+* Research: I have done research in Statistical Mechanics / Probability and Geosciences (for more details, see [Google Scholar](https://scholar.google.com/citations?user=0p2xyt0AAAAJ&hl=en)).
+
+* Invited Professor at IMPA for the course [Continuum Percolation](https://impa.br/programacoes-cursos/course-schedule-summer-2015/?lang=en).
+
+* Teaching: I have taught different courses in the areas of Probability, Statistics, Data Science and Machine Learning for different audiences (engineering students, economists, and professionals). I have supervised undergraduate and graduate students in their research projects and theses.
+
+*Coordinated and taught a five-course Probability and Statistics program, leading a team of 15 instructors and teaching assistants. Responsible for curriculum planning, examinations, student support, and overall academic coordination.*
+
+I created and taught two advanced courses for the Phd program in Engineering at the University of Buenos Aires: Introduction to Statistical Learning and [Reinforcement Learning](https://github.com/julianfm7/cursoRL-FIUBA).
+
+
+
+# Education
+## **Leiden University**, Ph.D. in Mathematics -- Netherlands
+Sep 2010, Mar 2014
+
+*Dynamical Gibbs Non-Gibbs transitions and Brownian Percolation.* (Under the supervision of [Prof.Dr. Frank den Hollander](https://scholar.google.com/citations?hl=en&user=0iieFBwAAAAJ) and [Prof.Dr. Roberto Fernandez](https://scholar.google.com/citations?hl=en&user=x_dleVQAAAAJ).
+
+I have been granted with an *Erasmus Mundus/BAPE scholarship*. In 2014, I have received the [Francisco Aranda Ordaz Award](https://www.universiteitleiden.nl/en/news/2014/10/francisco-aranda-ordaz-award-latin-american-prize-for-julian-facundo-martinez) to the best thesis in Probability written by a student from Latin America (Sponsored by the Bernoulli Society).
+
+
+
+## **University of Buenos Aires**, M.Sc. in Mathematics -- Argentina
+Mar 2008, Mar 2010
+
+*Hydrodynamical limit for Simple Symmetric Exclusion Process* (under the supervision of [Prof. Dr. Mariela Sued](https://scholar.google.com/citations?hl=en&user=xxlfprUAAAAJ)).

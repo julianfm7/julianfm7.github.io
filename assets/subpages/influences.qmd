@@ -1,0 +1,31 @@
+## Intellectual Influences
+
+The tools we use matter, but so do the ideas that shape how we think. The people below have influenced my approach to statistics, machine learning, decision-making, data systems, and scientific computing. While they come from different fields, they share a common emphasis on rigor, curiosity, reproducibility, and practical impact.
+
+### Scientific Machine Learning & Software Craftsmanship
+
+[Vincent Warmerdam](https://koaning.io/) Pragmatic machine learning, MLOps, software engineering practices, and critical thinking about AI.
+
+[Gaël Varoquaux](https://gael-varoquaux.info/) Scientific computing, machine learning, and the development of open-source software for data science.
+
+[Eric Ma](https://ericmjl.github.io/) Scientific computing, network science, reproducible research, and the Python data ecosystem.
+
+### Statistical Modeling & Inference
+
+[Frank Harrell](https://www.fharrell.com/about) Biostatistics, predictive modeling, uncertainty quantification, and evidence-based decision making.
+
+[Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/) Statistical machine learning, artificial intelligence, and the foundations of decision-making systems.
+
+### Decision Science & Reinforcement Learning
+
+[Warren Powell](https://castle.princeton.edu/)  Sequential decision-making, stochastic optimization, reinforcement learning, and operations research.
+
+### Bayesian Statistics & Applied Machine Learning
+
+[Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelreath/) Bayesian statistics, evolutionary anthropology, and the application of probabilistic models to social science.
+
+[Juan Camilo Orduz](https://juanitorduz.github.io/about/) Bayesian modeling, probabilistic machine learning, experimentation, and modern data science workflows.
+
+### Graph Data & Knowledge Systems
+
+[Tomaz Bratanic](https://github.com/tomasonjo) Knowledge graphs, graph databases, GraphRAG, and the integration of structured knowledge into AI systems.
